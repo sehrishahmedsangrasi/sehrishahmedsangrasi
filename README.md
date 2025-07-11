@@ -26,7 +26,7 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
       <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="100%" height="200px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="100%" height="200px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="100%" height="300px" />
     </td>
   </tr>
 </table>
