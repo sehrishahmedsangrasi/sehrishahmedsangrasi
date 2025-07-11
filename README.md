@@ -21,8 +21,8 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="47%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="47%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="48%" />
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sehrishahmedsangrasi&theme=radical)
