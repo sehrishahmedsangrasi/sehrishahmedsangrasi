@@ -20,10 +20,17 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 💊 [Sehat aur Sahulat – Health & Welfare App](https://github.com/sehrishahmedsangrasi/Sehat_aur_sahulat)  
 
 ### GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="40%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="40%" height="200px" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" style="min-height: 260px; width: 100%;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" style="min-height: 260px; width: 100%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sehrishahmedsangrasi&theme=radical)
