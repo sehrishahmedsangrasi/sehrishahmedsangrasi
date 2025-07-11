@@ -20,7 +20,7 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 💊 [Sehat aur Sahulat – Health & Welfare App](https://github.com/sehrishahmedsangrasi/Sehat_aur_sahulat)  
 
 ### GitHub Stats
-<div align="center h-full">
+<div align="center h-[50%]">
   <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="48%" />
 </div>
