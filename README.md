@@ -30,11 +30,12 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sehrishahmedsangrasi&theme=radical" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=sehrishahmedsangrasi&color=blue&style=flat-square" />
+</p>
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sehrishahmedsangrasi&theme=radical)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sehrishahmedsangrasi&color=blue&style=flat-square)
 
 ### GitHub Achievements
 
