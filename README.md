@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Sehrish Ahmed Sangrasi
 
-I'm a full-stack web developer who also loves exploring the world of AI and machine learning. I’ve worked on everything from building websites to creating smart tools that generate images from prompts and detect fake news. Lately, I’ve been sharpening my skills in cybersecurity and diving deeper into AI—because why not make tech smarter *and* safer?
+I'm a full-stack web developer who also loves exploring the world of AI and machine learning. I’ve worked on everything from building websites to creating smart tools that generate images from prompts and detect fake news. Lately, I’ve been sharpening my skills in cybersecurity and diving deeper into AI, because why not make tech smarter *and* safer?
 
 I enjoy creating things that solve real problems or just make people go “whoa, that’s cool.” Whether it’s a chatbot, a fake news detector, or a web app, I like mixing creativity with code.
 
@@ -21,8 +21,8 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="47%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="47%" height="200px" />
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sehrishahmedsangrasi&theme=radical)
