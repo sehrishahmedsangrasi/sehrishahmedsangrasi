@@ -16,12 +16,14 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 ### Some of my favorite work
 
 📰 [Fake News Detection System](https://github.com/sehrishahmedsangrasi/fake-news-detector)  
+🛒 [Furniro – E-commerce Website UI](https://github.com/sehrishahmedsangrasi/Furniro_ui)  
+💊 [Sehat aur Sahulat – Health & Welfare App](https://github.com/sehrishahmedsangrasi/Sehat_aur_sahulat)  
 
 ### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sehrishahmedsangrasi&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehrishahmedsangrasi&layout=compact&theme=radical" width="47%" />
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sehrishahmedsangrasi&theme=radical)
 
@@ -39,6 +41,7 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Let’s connect
 
