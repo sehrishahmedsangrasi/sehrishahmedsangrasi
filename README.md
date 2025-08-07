@@ -15,7 +15,7 @@ When I'm not coding, I’m probably breaking something (on purpose) to understan
 
 ### Some of my favorite work
 
-🛠️ [SkillSyncer](https://github.com/sehrishahmedsangrasi/SkillSyncer)
+🛠️ [SkillSyncer](https://github.com/sehrishahmedsangrasi/SkillSyncer)  
 📰 [Fake News Detection System](https://github.com/sehrishahmedsangrasi/fake-news-detector)  
 🛒 [Furniro – E-commerce Website UI](https://github.com/sehrishahmedsangrasi/Furniro_ui)  
 💊 [Sehat aur Sahulat – Health & Welfare App](https://github.com/sehrishahmedsangrasi/Sehat_aur_sahulat)  
